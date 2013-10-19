@@ -1,0 +1,5 @@
+/Users/vikewoods/Work/Application Developing/C/DimidDecrypter/DimidDecrypter/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/vikewoods/Work/Application Developing/C/DimidDecrypter/DimidDecrypter/bin/Release/DimidDecrypter.exe.mdb
+/Users/vikewoods/Work/Application Developing/C/DimidDecrypter/DimidDecrypter/bin/Release/DimidDecrypter.exe
+/Users/vikewoods/Work/Application Developing/C/DimidDecrypter/DimidDecrypter/obj/x86/Release/DimidDecrypter.exe
+/Users/vikewoods/Work/Application Developing/C/DimidDecrypter/DimidDecrypter/obj/x86/Release/DimidDecrypter.exe.mdb
